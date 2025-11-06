@@ -1,11 +1,11 @@
 {
   "Hero": {
     "h1": "Host Smarter. Launch Faster.",
-    "h2": "Hostly.io is your all-in-one AI-powered hosting platform for eCommerce and Smart Pages — fast, secure, and built to help your business grow effortlessly."
+    "h2": "hostlyfy.com is your all-in-one AI-powered hosting platform for eCommerce and Smart Pages — fast, secure, and built to help your business grow effortlessly."
   },
   "Feature": {
     "h2": "Our Features",
-    "h3": "Why Choose Hostly.io",
+    "h3": "Why Choose hostlyfy.com",
     "description1": "High-performance AI hosting designed for online stores and smart landing pages.",
     "description2": "Powered by Next.js, Node, and scalable cloud infrastructure for speed and reliability.",
     "description3": "Fully optimized for SEO, mobile, and AI integrations — ready to scale with your brand."
@@ -14,13 +14,13 @@
     "h2": "Our Pricing",
     "h3": "Choose the Perfect Plan",
     "description": "Flexible plans for creators, entrepreneurs, and growing businesses — pay only for what you need.",
-    "doYouLike": "Love what Hostly offers?",
+    "doYouLike": "Love what hostlyfy offers?",
     "follow": "Follow us on Twitter for updates and new AI tools."
   },
   "Testimonial": {
     "h2": "Testimonials",
     "h3": "Trusted by Businesses Worldwide",
-    "description1": "See what entrepreneurs, developers, and digital creators are saying about Hostly.io.",
+    "description1": "See what entrepreneurs, developers, and digital creators are saying about hostlyfy.com.",
     "description2": "Real stories from real users —",
     "description3": "join the community and experience next-level hosting."
   },
@@ -31,22 +31,22 @@
   },
   "CTA": {
     "h2": "Launch Your Smart Store Today",
-    "h3": "Get your eCommerce site or AI Smart Page live in minutes with Hostly.io."
+    "h3": "Get your eCommerce site or AI Smart Page live in minutes with hostlyfy.com."
   },
   "CTAButton": {
     "btn1": "Start Free Trial",
     "btn2": "View Documentation"
   },
   "About": {
-    "h1": "About Hostly.io",
+    "h1": "About hostlyfy",
     "h2": "We build reliable, AI-driven hosting solutions that empower entrepreneurs to launch, manage, and scale their digital presence effortlessly.",
-    "why": "Why Hostly.io",
+    "why": "Why hostlyfy",
     "why_content": "With cutting-edge performance, built-in AI tools, and 24/7 support, we help businesses stay fast, secure, and ahead of the competition.",
     "team": "Meet Our Team",
     "team_content": "Our passionate team of developers, designers, and engineers is dedicated to creating hosting technology that empowers innovation and success for every user."
   },
   "Blog": {
-    "title": "Hostly Blog",
+    "title": "hostlyfy Blog",
     "description": "Insights, tutorials, and updates on hosting, AI tools, and digital growth strategies.",
     "side1": "Latest Articles",
     "side2": "Popular Reads",
