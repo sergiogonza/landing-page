@@ -27,7 +27,7 @@ export default function PricingCard({ pricingItem = {} }) {
 			<a
 				aria-label='choose plan'
 				title='choose plan'
-				href='#'
+				href='https://nas.io/checkout-global?communityId=67f83d08fccb1ec9c783ee79&communityCode=EQUINOX_2&requestor=signupRequestor&linkClicked=https%3A%2F%2Fnas.io%2Fportal%2Fdigital-files%2Fmanage%3Fid%3D690ce20160096d05a32559d6&sourceInfoType=folder&sourceInfoOrigin=690ce20160096d05a32559d6'
 				className='btn btn-wide bg-base-content text-base-100 hover:bg-base-100 hover:text-base-content rounded-full'
 			>
 				Choose Plan
