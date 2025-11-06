@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://hostly.io',
+  siteUrl: process.env.SITE_URL || 'https://hostlyfy.com',
   generateRobotsTxt: true,
   sitemapSize: 7000,
   exclude: ['/404', '/500'],
